@@ -34,7 +34,7 @@ Included validation queries using `COUNT(*)`, `SUM(cost)`, and `DISTINCT` to aud
 
 ## 💡 Skills Demonstrated
 * **Database Management:** Schema design and DDL/DML proficiency.
-* **Advanced SQL:** Mastering `UNION ALL`, `CASE` logic, and data aggregation.
+* **Advanced SQL:** Mastering 
 * **ETL Workflow:** Understanding the transition from Raw Data → Staging → Unified Analytical Layer.
 * **BI Visualization:** Translating complex datasets into actionable business insights.
 
