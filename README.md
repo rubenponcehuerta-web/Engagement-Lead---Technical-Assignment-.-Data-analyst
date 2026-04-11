@@ -1,5 +1,3 @@
-Hi this is my project for improvado :) 
-
 Markdown
 # 📈 Multi-Channel Marketing ETL & Dashboard
 ### Case Study: Cross-Platform Data Integration (TikTok, Google & Facebook)
@@ -39,4 +37,4 @@ Included validation queries using `COUNT(*)`, `SUM(cost)`, and `DISTINCT` to aud
 * **BI Visualization:** Translating complex datasets into actionable business insights.
 
 ---
-*Developed by Rubén Ponce Huerta — Data Analyst Candidate specialized in SQL & Marketing Analytics
+*Developed by Rubén Ponce Huerta — Data Analyst Candidate 
